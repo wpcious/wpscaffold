@@ -1,4 +1,4 @@
-wpscaffold
+WPScaffold
 ==========
 
 Wordpress Scaffold
